@@ -1,0 +1,7 @@
+key.txt
+books/*.pdf
+index_backup_*.html
+__pycache__/
+.streamlit/
+.ua/
+founder/
